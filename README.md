@@ -4,7 +4,6 @@
 [![HitCount](http://hits.dwyl.io/slaserx/stalker.svg)](http://hits.dwyl.io/slaserx/xui)
 [![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)](http://github.com/SlaSerX/xui)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=root@darkshell.eu&item_name=LinuxHelps%20Support&currency_code=EUR)
-[![Join the chat at https://gitter.im/SlaSerX/stalker](https://badges.gitter.im/SlaSerX/xui.svg)](https://gitter.im/SlaSerX/stalker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <h3 style="color:#FF0000">Auto install script it will no longer be available for free due to many abuses. Anyone who wants to use it can pay a minimum fee of 0.99€</h3>
 
@@ -26,8 +25,6 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 
 <b>Script work only on Clean Ubuntu install servers</b>
 
-#changelog
-
 <b>XtreamUI auto install script v1.0.1 - RELEASE</b>
 
 * Last XtreamUI Version 22f Mod 18
@@ -43,7 +40,7 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 * Fix bugs
 * Update links
 
-#Install
+<b>How to Install</b>
 
 upload xui.zip file on your server
 unzip xui.zip
