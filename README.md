@@ -55,5 +55,6 @@ run with root ./install
 * libdfk for aac encoding
 
 Simply replace binaries (ffmpeg, ffprobe) in /home/xtreamcodes/iptv_xtream_codes/bin
-(If you cannot replace, rename your old binaries first)
+
+[![Click to Watch](https://img.youtube.com/vi/Q1kxEy7QFpg/0.jpg)](https://www.youtube.com/watch?v=Q1kxEy7QFpg "Click to Watch")
 
