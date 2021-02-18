@@ -1,4 +1,4 @@
-``` XtreamUI Portal road warrior installer for Ubuntu
+XtreamUI Portal road warrior installer for Ubuntu
 
 This script will work on Ubuntu and probably other distros of the same families, although no support is offered for them.
 It isn't bulletproof but it will probably work if you simply want to setup a XtreamUI Portal on your Ubuntu box. It has been designed to be as unobtrusive and universal as possible.
