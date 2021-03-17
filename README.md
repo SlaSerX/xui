@@ -5,7 +5,8 @@
 [![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)](http://github.com/SlaSerX/xui)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=root@darkshell.eu&item_name=LinuxHelps%20Support&currency_code=EUR)
 
-<h3 style="color:#FF0000">Auto install script it will no longer be available for free due to many abuses. Anyone who wants to use it can pay a minimum fee of 0.99€</h3>
+<h3 style="color:#FF0000">Auto install script it will no longer be available for free due to many abuses. Anyone who wants to use it can pay a minimum fee</h3>
+
 
 <b>Buy IT:</b>
 https://slaserx.dev/shop/index.php?rp=/store/software
