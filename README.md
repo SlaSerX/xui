@@ -26,6 +26,23 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 
 <b>Script work only on Clean Ubuntu install servers</b>
 
+<b>XtreamUI auto install script v1.0.2 - RELEASE</b>
+
+* Last XtreamUI Version 22f Mod 22
+* Removed all Backdoors
+* Patched Version 1.1rc
+* Last ffmpeg git version
+* Added new mag devices support
+* New Theme
+* Fix bugs
+* Links for download changed
+* Implemented support for Ubuntu 18
+* fix problem with phing
+* Patch composer
+* Fix bugs
+* Update links
+
+
 <b>XtreamUI auto install script v1.0.1 - RELEASE</b>
 
 * Last XtreamUI Version 22f Mod 18
